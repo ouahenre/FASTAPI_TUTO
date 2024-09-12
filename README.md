@@ -1,4 +1,4 @@
-A biologist said that there are 150 different flowers in the world but these flowers can be classified into 3 different species: iris vergicolor, iris verginica, iris cetosa
+A biologist said that there are 150 different IRIS flowers in the world but these flowers can be classified into 3 different species: iris vergicolor, iris verginica, iris cetosa
 Our classification model seeks to predict a flower species based on its characteristics: length and width of cep and petal.
 
 In this exercice three files are generated:
